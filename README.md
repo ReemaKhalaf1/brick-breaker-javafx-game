@@ -34,10 +34,6 @@ The project transforms a basic game skeleton into a fully featured, polished gam
 - Resource loading and error handling (audio, images)
 - Writing technical documentation and project reports
 
-## 🖼️ Screenshots
-| Main Menu | Gameplay | How to Play |
-|-----------|----------|-------------|
-| (Add screenshot) | (Add screenshot) | (Add screenshot) |
 
 ## 🧪 Testing
 - **8 JUnit tests** (GameModelUnitTest.java)
@@ -65,7 +61,7 @@ text
 |------|-------------|
 | `JAVASUB2.pdf` | Full project report with design, testing, and reflection |
 | `brick-breaker.zip` | Complete source code (JavaFX project) |
-| (Optional) `screenshots/` | Game screenshots |
+
 
 ## 👩‍💻 Author
 **Reema Khalaf**  
